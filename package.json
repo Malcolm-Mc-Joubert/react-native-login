@@ -1,0 +1,17 @@
+{
+  "name": "Project",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "deco-ride-share-demo": "^1.1.0",
+    "native-base": "^0.5.11",
+    "react": "^15.1.0",
+    "react-native": "^0.27.2",
+    "react-native-lightbox": "^0.6.0",
+    "react-native-navbar": "^1.5.4",
+    "rn-geolocation": "0.0.6"
+  }
+}
